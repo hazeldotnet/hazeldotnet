@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**hazeldotnet/hazeldotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+! About me:
++ Hazel / Hazeldotnet
++ Australian Cybersec & Business Undergrad
++ Self-taught systems administrator and technician
+- Looking for Aus/International Network & Cybersec work
+```
+```diff
+! Contact me:
++ email: hazeldotnet@gmail.com
++ bsky: bsky.hazelnet.tech
+```
